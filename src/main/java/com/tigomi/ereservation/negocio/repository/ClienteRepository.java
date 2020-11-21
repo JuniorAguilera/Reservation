@@ -10,7 +10,7 @@ import com.tigomi.ereservation.modelo.Cliente;
 
 /**
  * Interface para definir las operaciones de bdd relacionadas con cliente
- * @author martosfre
+ * @author Junior Aguilera
  *
  */
 public interface ClienteRepository extends JpaRepository<Cliente, String>{
