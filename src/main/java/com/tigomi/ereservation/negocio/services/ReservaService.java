@@ -12,7 +12,7 @@ import com.tigomi.ereservation.negocio.repository.ReservaRepository;
 
 /**
  * Clase para definir los servicios de reserva
- * @author martosfre
+ * @author Junior Aguilera
  *
  */
 @Service
